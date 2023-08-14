@@ -1,5 +1,3 @@
-# Credit_Risk_Prediction
-
 Credit Risk Prediction:
 ==========================
 This is a classic problem where the goal is to predict whether an individual's credit risk is "Good" or "Bad" based on the provided features. You could use various machine learning algorithms to build a predictive model that takes into account attributes like age, gender, job, housing, savings, checking account status, credit amount, duration, and purpose to predict the likelihood of a customer defaulting on a loan.
